@@ -1,0 +1,56 @@
+.info-container {
+  /* display: flex;
+  flex-direction: column; */
+  text-align: center;
+}
+
+/* social media buttons */
+.btn-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#linkedin-btn {
+  background-color: #5093e2;
+}
+#email-btn {
+  background-color: #ffffff;
+}
+
+#linkedin-btn,
+#email-btn {
+  width: 115px;
+  height: 45px;
+  font-size: 20px;
+  border-radius: 6px;
+}
+
+#linkedin-btn:hover,
+#email-btn:hover {
+  cursor: pointer;
+  transform: translateY(-3px);
+}
+
+/* Title */
+#full-name {
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* role */
+#role {
+  /* font-size: 13px; */
+  color: #f3bf99;
+  margin-top: -15px;
+}
+
+#website {
+  font-size: 13px;
+  color: #f5f5f5;
+}
+/* profile picture */
+.profile-pic {
+  border-radius: 10px 10px 0px 0px;
+  width: 100%;
+}

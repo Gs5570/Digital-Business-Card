@@ -1,0 +1,21 @@
+.footer-container {
+  border-radius: 0px 0px 10px 10px;
+  background: #161619;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* gap: 10px; */
+
+  margin-top: 50px;
+}
+
+.icons {
+  height: 35px;
+  margin: 10px 10px;
+  color: #918e9b;
+}
+
+.icons:hover {
+  cursor: pointer;
+  transform: translateY(-3px);
+}
