@@ -4,7 +4,7 @@
 
 ---
 
-This is a small react project in which I build a Digital Business Card with my contact info. It serves as practice to enhance my React skills.
+This is a small static react project that represent a Digital Business Card with my contact info. It serves as practice gear toward paracticing react.
 
 ## Technology
 
@@ -20,7 +20,7 @@ This is a small react project in which I build a Digital Business Card with my c
 
 ---
 
-To run do project locally:
+Command to run the project after you download it locally:
 
 1. `npm install`
 2. `npm run dev`
