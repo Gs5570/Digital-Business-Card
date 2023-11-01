@@ -1,7 +1,6 @@
 # Digital-Business-Card
 
-## Live Demo
-[Click Here] (https://digital-business-card-react-practice.netlify.app)
+
 
 ## Description
 
@@ -10,6 +9,9 @@
 This is a small react project in which I build a Digital Business Card with my contact info. It serves as practice to enhance my React skills..
 
 This is a small react project in which I build a Digital Business Card with my contact info. It serves as practice to enhance my React skills.
+
+## Live Demo
+[Click Here](https://digital-business-card-react-practice.netlify.app)
 
 ## Technology
 
