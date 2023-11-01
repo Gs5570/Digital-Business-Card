@@ -2,13 +2,15 @@
 
 ## Description
 
----
+
 
 This is a small react project in which I build a Digital Business Card with my contact info. It serves as practice to enhance my React skills.
 
+## Live Demo
+[Click here](https://digital-business-card-react-practice.netlify.app/)
+
 ## Technology
 
----
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
