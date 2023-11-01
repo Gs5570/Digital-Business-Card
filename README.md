@@ -22,7 +22,7 @@ This is a small react project in which I build a Digital Business Card with my c
 
 ---
 
-To run do project locally:
+To run do project locally
 
 1. `npm install`
 2. `npm run dev`
